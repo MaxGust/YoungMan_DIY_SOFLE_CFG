@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      url-base: https://github.com/stephen/zmk/tree/stephen/split-encoder
+      url-base: https://github.com/stephen
   projects:
     - name: zmk
       remote: zmkfirmware
