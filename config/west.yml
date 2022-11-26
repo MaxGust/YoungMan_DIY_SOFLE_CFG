@@ -2,11 +2,11 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: stephen
-      url-base: https://github.com/stephen
+    - name: MaxGust
+      url-base: https://github.com/MaxGust
   projects:
     - name: zmk
-      remote: stephen
+      remote: MaxGust
       revision: sofle
       import: app/west.yml
   self:
