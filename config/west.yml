@@ -5,7 +5,7 @@ manifest:
     - name: MaxGust
       url-base: https://github.com/MaxGust
   projects:
-    - name: zmk_sofle
+    - name: zmk
       remote: MaxGust
       revision: sofle
       import: app/west.yml
