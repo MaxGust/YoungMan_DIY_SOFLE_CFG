@@ -16,6 +16,8 @@ include:
   - board: nrfmicro_13
     shield: sofle_left
   - board: nrfmicro_13
-    shield: sofle_right
-  - board: nrfmicro_13
-    shield: settings_reset   
+    shield: sofle_right 
+  - board: nice_nano
+    shield: sofle_left
+  - board: nice_nano
+    shield: sofle_right 
